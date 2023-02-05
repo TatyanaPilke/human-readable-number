@@ -231,7 +231,7 @@ module.exports = function toReadable(number) {
         case 114:
             return 'one hundred fourteen';
         case 115:
-            return 'one hundred seventeen';
+            return 'one hundred fifteen';
         case 116:
             return 'one hundred sixteen';
         case 117:
@@ -432,7 +432,7 @@ module.exports = function toReadable(number) {
         case 214:
             return 'two hundred fourteen';
         case 215:
-            return 'two hundred seventeen';
+            return 'two hundred fifteen';
         case 216:
             return 'two hundred sixteen';
         case 217:
@@ -633,7 +633,7 @@ module.exports = function toReadable(number) {
         case 314:
             return 'three hundred fourteen';
         case 315:
-            return 'three hundred seventeen';
+            return 'three hundred fifteen';
         case 316:
             return 'three hundred sixteen';
         case 317:
@@ -834,7 +834,7 @@ module.exports = function toReadable(number) {
         case 414:
             return 'four hundred fourteen';
         case 415:
-            return 'four hundred seventeen';
+            return 'four hundred fifteen';
         case 416:
             return 'four hundred sixteen';
         case 417:
@@ -1035,7 +1035,7 @@ module.exports = function toReadable(number) {
         case 514:
             return 'five hundred fourteen';
         case 515:
-            return 'five hundred seventeen';
+            return 'five hundred fifteen';
         case 516:
             return 'five hundred sixteen';
         case 517:
@@ -1236,7 +1236,7 @@ module.exports = function toReadable(number) {
         case 614:
             return 'six hundred fourteen';
         case 615:
-            return 'six hundred seventeen';
+            return 'six hundred fifteen';
         case 616:
             return 'six hundred sixteen';
         case 617:
@@ -1437,7 +1437,7 @@ module.exports = function toReadable(number) {
         case 714:
             return 'seven hundred fourteen';
         case 715:
-            return 'seven hundred seventeen';
+            return 'seven hundred fifteen';
         case 716:
             return 'seven hundred sixteen';
         case 717:
@@ -1638,7 +1638,7 @@ module.exports = function toReadable(number) {
         case 814:
             return 'eight hundred fourteen';
         case 815:
-            return 'eight hundred seventeen';
+            return 'eight hundred fifteen';
         case 816:
             return 'eight hundred sixteen';
         case 817:
@@ -1839,7 +1839,7 @@ module.exports = function toReadable(number) {
         case 914:
             return 'nine hundred fourteen';
         case 915:
-            return 'nine hundred seventeen';
+            return 'nine hundred fifteen';
         case 916:
             return 'nine hundred sixteen';
         case 917:
